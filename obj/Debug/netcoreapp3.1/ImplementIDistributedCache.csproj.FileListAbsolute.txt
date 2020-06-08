@@ -1,0 +1,11 @@
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\bin\Debug\netcoreapp3.1\ImplementIDistributedCache.exe
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\bin\Debug\netcoreapp3.1\ImplementIDistributedCache.deps.json
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\bin\Debug\netcoreapp3.1\ImplementIDistributedCache.runtimeconfig.json
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\bin\Debug\netcoreapp3.1\ImplementIDistributedCache.runtimeconfig.dev.json
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\bin\Debug\netcoreapp3.1\ImplementIDistributedCache.dll
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\bin\Debug\netcoreapp3.1\ImplementIDistributedCache.pdb
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\obj\Debug\netcoreapp3.1\ImplementIDistributedCache.csprojAssemblyReference.cache
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\obj\Debug\netcoreapp3.1\ImplementIDistributedCache.AssemblyInfoInputs.cache
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\obj\Debug\netcoreapp3.1\ImplementIDistributedCache.AssemblyInfo.cs
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\obj\Debug\netcoreapp3.1\ImplementIDistributedCache.dll
+C:\Users\afolabiba\Documents\GitHub\ImplementIDistributedCache\obj\Debug\netcoreapp3.1\ImplementIDistributedCache.pdb
